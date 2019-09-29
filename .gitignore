@@ -1,3 +1,4 @@
 .env
+output.log
 node_modules/
 repo/
